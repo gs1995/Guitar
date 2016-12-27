@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562949388582",
+    "project_id": "guitar-481bb"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562949388582:android:bbbf3921f3a6faa2",
+        "android_client_info": {
+          "package_name": "com.fl2.guitar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562949388582-1belv1dkf8mii71cp68hkaotju6shcg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fl2.guitar",
+            "certificate_hash": "EAA6805789007CE87465C1CCE45A35020EA40036"
+          }
+        },
+        {
+          "client_id": "562949388582-p55pdnid4m97bcif1bp34h0lv7lo5mvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdU9o64YOQV9r-RC8jmD3qq6Ta4-FwZUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
